@@ -78,6 +78,10 @@ Software Implementations
 Hardware Implementations
 ------------------------
 
+| Description | Code | Author | Ascon version | Comments and supported variants |
+|-------------|------|--------|---------------|---------------------------------|
+| Verilog | [tristanitschner/ascon_cipher_verilog](https://github.com/tristanitschner/ascon_cipher_verilog) | Tristan Itschner | NIST SP 800-232 | Verilog implementation of Ascon-AEAD-128 with a focus on speed |
+
 :construction: to be completed
 
 
